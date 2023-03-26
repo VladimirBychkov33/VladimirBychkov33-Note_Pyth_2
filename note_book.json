@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "header": "уборка",
+    "content": "пыль, стирка",
+    "data_of_create_or_change": "26.03.2023 : 16.05.30"
+  },
+  {
+    "id": 2,
+    "header": "учеба",
+    "content": "выучить стих",
+    "data_of_create_or_change": "26.03.2023 : 16.06.05"
+  },
+  {
+    "id": 3,
+    "header": "отдых",
+    "content": "сходить в кино",
+    "data_of_create_or_change": "26.03.2023 : 16.06.21"
+  },
+  {
+    "id": 4,
+    "header": "уборка",
+    "content": "пыль и стирка",
+    "data_of_create_or_change": "26.03.2023 : 16.08.16"
+  },
+  {
+    "id": 5,
+    "header": "отдых",
+    "content": "кино",
+    "data_of_create_or_change": "26.03.2023 : 16.08.28"
+  },
+  {
+    "id": 6,
+    "header": "uborka",
+    "content": "stirka",
+    "data_of_create_or_change": "26.03.2023 : 16.09.34"
+  },
+  {
+    "id": 7,
+    "header": "weekends",
+    "content": "cinema",
+    "data_of_create_or_change": "26.03.2023 : 16.10.04"
+  }
+]
